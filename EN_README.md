@@ -78,4 +78,4 @@ Unlike many "black box" tools on the market, Drama Mill provides highly transpar
 
 🛠️ Troubleshooting Guides: Hardcore, practical guides on how to fix "face morphing," "lip-sync drift," and "blurry outputs."
 
-🔗 Visit Drama Mill to start creating your first AI short film today.
+🔗 Visit Drama Mill(https://drama-mill.com/) to start creating your first AI short film today.
